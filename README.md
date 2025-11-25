@@ -27,7 +27,4 @@ Plots the resulting clusters and their centroids
 
 Prints summary statistics for each cluster
 
-The dataset used in this project can be accessed here:
-CSV File:
-"C:\Users\pknai\Downloads\U_Pu_comp.csv"
 
